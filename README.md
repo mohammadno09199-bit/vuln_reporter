@@ -29,7 +29,7 @@ A modular Python tool that analyzes Nmap JSON scan outputs and cross-references 
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/mohammadno09199-bit/vuln-reporter.git](https://github.com/mohammadno09199-bit/vuln_reporter
+git clone https://github.com/mohammadno09199-bit/vuln_reporter.git
 cd vuln-reporter
 python3 -m venv venv
 source venv/bin/activate
